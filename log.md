@@ -1,22 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: Friday, January 1st, 2021
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Worked on the shoppies awards page and got most of the basic markup done along with a start into the styling.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** 
+This app screams to be made as a react application but i want to give it a go making it in Pure HTML, CSS and Javascript(Thats right not even Jquery but dont hold me to that). Since its been a while that ive worked with just the basics there was a little bit of googling involved but after an hour and a half of work im pretty happy where its at. Tomorrow I hope to get a few more hours in and begin working on the interactive elements once everything is styled up.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [theshoppies](https://github.com/mfallesen/theshoppies)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
 
 
 ### Day 1: June 27, Monday
