@@ -7,6 +7,11 @@
 **Thoughts:** 
 This app screams to be made as a react application but i want to give it a go making it in Pure HTML, CSS and Javascript(Thats right not even Jquery but dont hold me to that). Since its been a while that ive worked with just the basics there was a little bit of googling involved but after an hour and a half of work im pretty happy where its at. Tomorrow I hope to get a few more hours in and begin working on the interactive elements once everything is styled up.
 
+**Sucesses:**
+  Starting with basic html ccss and akavascript reminded me of how much I still have to learn to write good code. I did learn several new VScode key Shortcuts now that im not trying to folow an instructior or tutorial. 
+**Failures:**
+  I seem to have forgotten exactly how flexbox works. It took a bit of stepping away and going back to look at it before things became clear again and i was able to press forward. However, this also led me down several rabbitholes that I definetly did not intend to get stuck in. I have to work on not getting easily distracted.
+
 **Link to work:** [theshoppies](https://github.com/mfallesen/theshoppies)
 
 
