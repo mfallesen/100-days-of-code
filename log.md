@@ -14,7 +14,20 @@ This app screams to be made as a react application but i want to give it a go ma
 
 **Link to work:** [theshoppies](https://github.com/mfallesen/theshoppies)
 
+### Day 1: Saturday, January 2nd, 2021
 
+**Today's Progress**: Finished working on the styling of the page and immedieatly began refactoring the CSS into a more concise and readable format. 
+
+**Thoughts:** 
+The styling is where I want it, for now anyways. I'm happy to have gotten through it since ive always struggled with CSS. It's by far my least favortie part of development which is part of the reason I'm forcing myself to not use a framework and instead style each piece individually. To that end I've started building myself a little personal frameworkfor this project that I may take an make a standard template for myself for future projects. I definetly need some more work using pseudo classes but thats something I'll tackle when I have the Basic JS implemented.
+
+**Sucesses:**
+Finished most of the basic styling relatively quickly and managed to get a good way into refactoring whats there. Focus was significantly better today and the rabbit holes I ended up going down were all related to the topic I was looking into so it wasn't time wasted. 
+
+**Failures:**
+Still spent far too much time going through and looking up the different CSS rules. It took longer than it should have to get my head wrapped around some of the concepts but hopefuly thats an issue I'll get better at over time.
+
+**Link to work:** [theshoppies](https://github.com/mfallesen/theshoppies)
 
 ### Day 1: June 27, Monday
 
