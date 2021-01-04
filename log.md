@@ -29,12 +29,17 @@ Still spent far too much time going through and looking up the different CSS rul
 
 **Link to work:** [theshoppies](https://github.com/mfallesen/theshoppies)
 
-### Day 1: June 27, Monday
+### Day 2: Sunday, Januard 3rd 2021 
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Finished refactoring CSS, Added some interation effects, and wrote the basic call to the OMDB API and got a successful response.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** 
+I need to go back and tweak the CSS and add some other options but everything is in a good place for now. Eventually I'll have the page significantly more interactive than simply just being able to search but baby steps for right now. CSS is becoming easier and I felt much more comfortable working with it today. Instead of wrestling with it it felt like it was cooperating for once which is a really good feeling. This is my first time using fetch and it was significantly easier to use than I had thought it would be. The plus side of that being that tomorrows work should be siginificantly easier and quicker to do than I originally had planned for. 
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Sucesses:**
+Was able to finish CSS quicker than originally planned and go be able to get an API response using fetch() instead of AJAX. It puts me a few hours ahead of where I had planned on being which means ive got more time to work on the bug fixing and/or adding other functionality.
+
+**Failures:**
+Only Able to work on the project for an hour today. Ideally I'd have prefered to work another 3-4 hours like yesterday.
+
+**Link to work:** [theshoppies](https://github.com/mfallesen/theshoppies)
