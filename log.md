@@ -44,7 +44,7 @@ Only Able to work on the project for an hour today. Ideally I'd have prefered to
 
 **Link to work:** [theshoppies](https://github.com/mfallesen/theshoppies)
 
-### Day 3: Sunday, Januard 4thtoday was a gre 2021 
+### Day 3: Sunday, Januard 4th 2021 
 
 **Today's Progress**: Finished the search functionality, finished rendering the search results as card, started tracking nominated movies and got them ready to be put onto cards tomorrow. 
 
