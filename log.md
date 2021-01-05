@@ -43,3 +43,31 @@ Was able to finish CSS quicker than originally planned and go be able to get an 
 Only Able to work on the project for an hour today. Ideally I'd have prefered to work another 3-4 hours like yesterday.
 
 **Link to work:** [theshoppies](https://github.com/mfallesen/theshoppies)
+
+### Day 3: Sunday, Januard 4thtoday was a gre 2021 
+
+**Today's Progress**: Finished the search functionality, finished rendering the search results as card, started tracking nominated movies and got them ready to be put onto cards tomorrow. 
+
+**Thoughts** 
+I managed to learn 2 new things today the .insertAdjacentHTML method and debouncing. Both of which made life easier for me. I managed to get the data for the API call onto the cards fairly quick (thats there the .insertAdjacentHTML comes in) and read the search field input to make the call. And then I though I should be able to take out the button entirely and just have a live search. Which is where the debouncing comes in. It took quite a bit of reading and googling examples before I was able to replicate the effect I wanted. I'm gonna keep the button and give the user the option to turn the search as you type on or off. 
+
+**Sucesses:**
+Figuring out debouncing was huge. I can see its usefulness in many other places and not just on an input field. also need to check out its cousin throttling 
+
+**Failures:**
+I can't find an elegant solution to the fact that some of the titles on the cards change the way the card looks because of the titles wrapping onto other lines. One of the bigger problems I'm having is that I only get 10 results returned from the API. I dont know if its because I'm using the query wrong of if its because thats its limit. 
+
+**Link to work:** [theshoppies](https://github.com/mfallesen/theshoppies)
+
+### Day 2: Sunday, Januard 3rd 2021 
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Sucesses:**
+
+**Failures:**
+
+**Link to work:** [theshoppies](https://github.com/mfallesen/theshoppies)
+
