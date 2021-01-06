@@ -59,6 +59,21 @@ I can't find an elegant solution to the fact that some of the titles on the card
 
 **Link to work:** [theshoppies](https://github.com/mfallesen/theshoppies)
 
+### Day 4: Monday, Januard 5th 2021 
+
+**Today's Progress**: Added code to disable button once a movie was nominated and to save items to localStorage
+
+**Thoughts** 
+Worked late into the night so this update is the next morning. Everything went well for the most part until I had to compare two values from seperate places. Think I may have solution which I'll try and implement using the data- attribute in HTML. finding that as the code gets more complicated im wondering if it wouldn't be worth splitting the code into more readable modules. For now Things will stay the way they are.
+
+**Sucesses:**
+Pulling Items in and out of local storage proved far easier than I had remembered and saved me quite a bit of time.
+
+**Failures:**
+The logic to compare to see if a movie is already nominated is faulty and im going to have to rework it. 
+
+**Link to work:** [theshoppies](https://github.com/mfallesen/theshoppies)
+
 ### Day 2: Sunday, Januard 3rd 2021 
 
 **Today's Progress**: 
