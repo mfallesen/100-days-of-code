@@ -29,7 +29,7 @@ Still spent far too much time going through and looking up the different CSS rul
 
 **Link to work:** [theshoppies](https://github.com/mfallesen/theshoppies)
 
-### Day 2: Sunday, Januard 3rd 2021 
+### Day 2: Sunday, January 3rd 2021 
 
 **Today's Progress**: Finished refactoring CSS, Added some interation effects, and wrote the basic call to the OMDB API and got a successful response.
 
@@ -44,7 +44,7 @@ Only Able to work on the project for an hour today. Ideally I'd have prefered to
 
 **Link to work:** [theshoppies](https://github.com/mfallesen/theshoppies)
 
-### Day 3: Sunday, Januard 4th 2021 
+### Day 3: Monday, January 4th 2021 
 
 **Today's Progress**: Finished the search functionality, finished rendering the search results as card, started tracking nominated movies and got them ready to be put onto cards tomorrow. 
 
@@ -59,7 +59,7 @@ I can't find an elegant solution to the fact that some of the titles on the card
 
 **Link to work:** [theshoppies](https://github.com/mfallesen/theshoppies)
 
-### Day 4: Monday, Januard 5th 2021 
+### Day 4: Tuesday, January 5th 2021 
 
 **Today's Progress**: Added code to disable button once a movie was nominated and to save items to localStorage
 
@@ -74,7 +74,21 @@ The logic to compare to see if a movie is already nominated is faulty and im goi
 
 **Link to work:** [theshoppies](https://github.com/mfallesen/theshoppies)
 
-### Day 2: Sunday, Januard 3rd 2021 
+### Day 5-6: Wednesday, January 6rd AND Thursday, January 7th 2021
+
+**Today's Progress**: Combining Day 6 and 7 for what should be obvious reasons. Wednesday I got most of the information moving freely in and out of localstorage and rendering properly into their elements. Today I tidied that up and added a banner to let users know once theyve reached a certain limit of items as well as actually limiting them from adding more. 
+
+**Thoughts** Today was more productive than yesterday for sure. I managed to get a very good amount of work done in the three or so hours that I managed to dedicate to the work today. Tomorrow should mark the completion of this project. Then I can start adding a few nice to haves onto the page to give it a bit more utility.
+
+**Sucesses:**
+Lots of work completed between yesterday and today. The information needed to display thing on the page is there and just needs to be manipulated into place
+
+**Failures:**
+Still feels like work is going too slow.
+
+**Link to work:** [theshoppies](https://github.com/mfallesen/theshoppies)
+
+### Day 2: Sunday, January 3rd 2021 
 
 **Today's Progress**: 
 
