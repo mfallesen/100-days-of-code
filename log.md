@@ -88,6 +88,38 @@ Still feels like work is going too slow.
 
 **Link to work:** [theshoppies](https://github.com/mfallesen/theshoppies)
 
+### Day 7: Friday, January 8th 2021 
+
+**Today's Progress**: 
+Enabled the removal of the elements if being un nominated but not from the stored array.
+
+**Thoughts** 
+Today was rough. I spent almost my entire time working trying to figure out something because i decided that i needed to overcomplicate things. Which puts me behind schedule. I did end the day with everything figured out just not coded yet (unless you count my chicken scratch on a notepad about what needs to be done coding). Tomorrow should see the end of the biggest JS problems and instead give me the freedom to work on making the page livelier with animations and interactivity.
+
+**Sucesses:**
+Kept working despite frustration at inability to solve problem.
+
+**Failures:**
+Took way to long to solve the problem. 
+
+**Link to work:** [theshoppies](https://github.com/mfallesen/theshoppies)
+
+### Day 8: Saturday, January 9th 2021 
+
+**Today's Progress**: 
+Finished the page to the minimum requirements.
+
+**Thoughts** 
+Finally done with the basic work and its a fully functioning page! took a bit longer than I would have like but it is finished and ready to be deployed in a working state. Time to add a few extras, the ability to favorite movies, cleaning up the CSS and adding some animations to the effects. along with tooltips and ways to give the user some more information about the movie they have picked.
+
+**Sucesses:**
+Today went really well and I managed to get the page to MVP
+
+**Failures:**
+The project took longer than I would have liked.
+
+**Link to work:** [theshoppies](https://github.com/mfallesen/theshoppies)
+
 ### Day 2: Sunday, January 3rd 2021 
 
 **Today's Progress**: 
@@ -99,4 +131,3 @@ Still feels like work is going too slow.
 **Failures:**
 
 **Link to work:** [theshoppies](https://github.com/mfallesen/theshoppies)
-
