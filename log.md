@@ -120,6 +120,36 @@ The project took longer than I would have liked.
 
 **Link to work:** [theshoppies](https://github.com/mfallesen/theshoppies)
 
+### Day 9: Sunday, January 10th 2021 
+
+**Today's Progress**: Worked for a little over an hour today. Finished troubleshooting some render issues.
+
+**Thoughts** 
+Today was a quick day and this is being written retrospectively. I've spent most of the time troubleshooting a rendering issue and trying to find a way to implement it that wouldnt cause too big of an issue. 
+
+**Sucesses:**
+Page now renders correctly on page load and when nominating and renominating movies. This was a quick fix all things considered.
+
+**Failures:**
+Too little time spent on the code today.
+
+**Link to work:** [theshoppies](https://github.com/mfallesen/theshoppies)
+
+### Day 10: Monday, January 11th 2021 
+
+**Today's Progress**: Finished the application in its entirety
+
+**Thoughts** 
+Today was spent working on and finishing up the entire page. From cleaning up a bit of Javascript, ensuring comments were readable and made sense to finalizing the CSS I can say im happy with the status of the page. I've got some improvements that I can think of making but I think its time that I went ahead and moved on to another project. 
+
+**Sucesses:**
+The Application is finished and looks well polished for what I wanted. 
+
+**Failures:**
+This took too long to finish for basic Javascript and CSS
+
+**Link to work:** [theshoppies](https://github.com/mfallesen/theshoppies)
+
 ### Day 2: Sunday, January 3rd 2021 
 
 **Today's Progress**: 
