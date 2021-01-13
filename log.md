@@ -150,6 +150,21 @@ This took too long to finish for basic Javascript and CSS
 
 **Link to work:** [theshoppies](https://github.com/mfallesen/theshoppies)
 
+### Day 11: Sunday, January 12th 2021 
+
+**Today's Progress**: Site is finished and published.
+
+**Thoughts** 
+Today was spent putting the final touches on the site and minifying both the css and JS files. Not much else was done but the page is up and live on github pages. I'm quite pleased with how its turned out for being just javascript and no framework
+
+**Sucesses:**
+
+
+**Failures:**
+This whole task took longer that id have liked.
+
+**Link to work:** [theshoppies](https://github.com/mfallesen/theshoppies)
+
 ### Day 2: Sunday, January 3rd 2021 
 
 **Today's Progress**: 
