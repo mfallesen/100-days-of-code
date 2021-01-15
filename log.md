@@ -165,6 +165,23 @@ This whole task took longer that id have liked.
 
 **Link to work:** [theshoppies](https://github.com/mfallesen/theshoppies)
 
+### Day 12-13: Sunday, January 13th and Monday, January 14th 2021 
+
+**Today's Progress**: 
+Double update again and its finally on a new subject. Working on a new application thats going to run a Node server, with a MySQL DB and a React front end. 
+
+**Thoughts** 
+Yesterday was mostly working on getting the environments set up so that I could start working on them and today was the start of actually sitting down to code the start of the server. The server itself is running, the databases have been created locally and working on the models for the user. Taking a break from making the ERD for the Database to update this log.
+
+**Sucesses:**
+New project is always fun and its an idea that I will actually want to use for myself. gotten much further today than I had first imagined I would. 
+
+**Failures:**
+Perhaps a little unoriginal ( I havent bothered to check if there are any applications like this out there)
+
+**Link to work:** [A Spicy Front](https://github.com/mfallesen/spicy-front)
+[A Spicy API](https://github.com/mfallesen/spicy-api)
+
 ### Day 2: Sunday, January 3rd 2021 
 
 **Today's Progress**: 
