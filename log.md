@@ -150,7 +150,7 @@ This took too long to finish for basic Javascript and CSS
 
 **Link to work:** [theshoppies](https://github.com/mfallesen/theshoppies)
 
-### Day 11: Sunday, January 12th 2021 
+### Day 11: Tuesday, January 12th 2021 
 
 **Today's Progress**: Site is finished and published.
 
@@ -165,7 +165,7 @@ This whole task took longer that id have liked.
 
 **Link to work:** [theshoppies](https://github.com/mfallesen/theshoppies)
 
-### Day 12-13: Sunday, January 13th and Monday, January 14th 2021 
+### Day 12-13: Wednesday, January 13th and Thursday, January 14th 2021 
 
 **Today's Progress**: 
 Double update again and its finally on a new subject. Working on a new application thats going to run a Node server, with a MySQL DB and a React front end. 
@@ -178,6 +178,24 @@ New project is always fun and its an idea that I will actually want to use for m
 
 **Failures:**
 Perhaps a little unoriginal ( I havent bothered to check if there are any applications like this out there)
+
+**Link to work:** [A Spicy Front](https://github.com/mfallesen/spicy-front)
+[A Spicy API](https://github.com/mfallesen/spicy-api)
+
+
+### Day 14: Friday, January 15th 2021 
+
+**Today's Progress**: 
+Finished sequelize models and was able to spin up the server locally and have sequalize interact with it.
+
+**Thoughts** 
+Spent a little bit of time this morning to finish off the ERD and then spent the rest of the time working on writing the models for the database to interact with. After a few hiccups and being able to troubleshoot through some of them I was finally able to spin up the server locally and make interact with the database. Tomorrow is going to be starting on the controllers or perhaps the authentication portion of the server. Not much longer before I can start working on the front end. 
+
+**Sucesses:**
+got a good amount of work done with relatively few distractions. 
+
+**Failures:**
+Spent too much time troubleshooting the sequelize associations that were initially causing errors. 
 
 **Link to work:** [A Spicy Front](https://github.com/mfallesen/spicy-front)
 [A Spicy API](https://github.com/mfallesen/spicy-api)
