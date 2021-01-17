@@ -200,6 +200,21 @@ Spent too much time troubleshooting the sequelize associations that were initial
 **Link to work:** [A Spicy Front](https://github.com/mfallesen/spicy-front)
 [A Spicy API](https://github.com/mfallesen/spicy-api)
 
+### Day 15: Saturday, January 16th 2021 
+
+**Today's Progress**: added authentication and creation capabilites for users
+
+**Thoughts** 
+Today was short and productive. The create users route was finished and tested along with their password encryption using passport and bcrypt. It was a nice change of pace and hopefully tomorrow I'll have a bit more time to spend on working on this. I'm itching to get a start on the Front end but I'm also aware that I should finish the back end first. ive yet to implement CORS but thats becaus eim waiting on actually having a front end to send requests from. 
+
+**Sucesses:**
+able to use postman to create a user in the DB and encrypt their password. 
+
+**Failures:**
+Not enough time spent working today. Well over an hour but I could have done more. 
+
+**Link to work:** [theshoppies](https://github.com/mfallesen/theshoppies)
+
 ### Day 2: Sunday, January 3rd 2021 
 
 **Today's Progress**: 
