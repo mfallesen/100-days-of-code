@@ -213,7 +213,24 @@ able to use postman to create a user in the DB and encrypt their password.
 **Failures:**
 Not enough time spent working today. Well over an hour but I could have done more. 
 
-**Link to work:** [theshoppies](https://github.com/mfallesen/theshoppies)
+**Link to work:** [A Spicy Front](https://github.com/mfallesen/spicy-front)
+[A Spicy API](https://github.com/mfallesen/spicy-api)
+
+### Day 16-17: Sunday, January 17th and Monday, January 18th 2021 
+
+**Today's Progress**: finished some more of the models. realized my relationships are all wrong so im pulling the database apart and rebuilding the models.
+
+**Thoughts** 
+Good progress on Sunday was hampered by terrible progress on Monday. Looking at how I had my relationships set up i realized that im going to have to redo the model and rethink my database. So thats what I've been doing for most of the day. Actually mostly reading documentation but thats gotta count right? I was expecting to be demoralized but instead in more fired up to get this reworked so ican get back to wrok 
+
+**Sucesses:**
+Got routes for adding spices to the database up and working
+
+**Failures:**
+having to redo my entire model and association tables. 
+
+**Link to work:** [A Spicy Front](https://github.com/mfallesen/spicy-front)
+[A Spicy API](https://github.com/mfallesen/spicy-api)
 
 ### Day 2: Sunday, January 3rd 2021 
 
