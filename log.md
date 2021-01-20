@@ -221,13 +221,29 @@ Not enough time spent working today. Well over an hour but I could have done mor
 **Today's Progress**: finished some more of the models. realized my relationships are all wrong so im pulling the database apart and rebuilding the models.
 
 **Thoughts** 
-Good progress on Sunday was hampered by terrible progress on Monday. Looking at how I had my relationships set up i realized that im going to have to redo the model and rethink my database. So thats what I've been doing for most of the day. Actually mostly reading documentation but thats gotta count right? I was expecting to be demoralized but instead in more fired up to get this reworked so ican get back to wrok 
+Good progress on Sunday was hampered by terrible progress on Monday. Looking at how I had my relationships set up I realized that I'm going to have to redo the model and rethink my database. So thats what I've been doing for most of the day. Actually mostly reading documentation but thats gotta count right? I was expecting to be demoralized but instead in more fired up to get this reworked so ican get back to wrok 
 
 **Sucesses:**
 Got routes for adding spices to the database up and working
 
 **Failures:**
 having to redo my entire model and association tables. 
+
+**Link to work:** [A Spicy Front](https://github.com/mfallesen/spicy-front)
+[A Spicy API](https://github.com/mfallesen/spicy-api)
+
+### Day 18: Tuesday, January 19th 2021 
+
+**Today's Progress**: finished some more models and routes after
+
+**Thoughts** 
+Today was also productive. Much time was spent reading documentation again (not that thats ever not going to be a thing). but i still managed to get a good amount of work finished and left only a single thing for tomorrow. that said its the most complicated route yet and relies on several promises and isn't as easy to just throw into an async fucntion and await the result. 
+
+**Sucesses:**
+Lots of work got done after reworking the database yeasterday
+
+**Failures:**
+No real failures unless you count not reading codumentation and understainding it fast enough one. 
 
 **Link to work:** [A Spicy Front](https://github.com/mfallesen/spicy-front)
 [A Spicy API](https://github.com/mfallesen/spicy-api)
