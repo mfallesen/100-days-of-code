@@ -250,6 +250,21 @@ No real failures unless you count not reading codumentation and understainding i
 
 ### Day 2: Sunday, January 3rd 2021 
 
+**Today's Progress**: worked on updating my Portfolio
+
+**Thoughts** 
+Spent a good amount of time going through my portfolio and editing some minor mistakes as well as adding some more functionality to the portfolio section. 
+
+**Sucesses:**
+Had no issue replacing the modals withones better suited to describe the projects. 
+
+**Lessons Learned:**
+theres always room for improvement in the code. Going over old projects makes that Painfully Obvious. 
+
+**Link to work:** [mikefallesen.codes](https://github.com/mfallesen/mfallesen-codes)
+
+### Day 2: Sunday, January 3rd 2021 
+
 **Today's Progress**: 
 
 **Thoughts** 
@@ -259,3 +274,4 @@ No real failures unless you count not reading codumentation and understainding i
 **Failures:**
 
 **Link to work:** [theshoppies](https://github.com/mfallesen/theshoppies)
+
