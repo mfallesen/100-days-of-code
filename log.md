@@ -248,7 +248,7 @@ No real failures unless you count not reading codumentation and understainding i
 **Link to work:** [A Spicy Front](https://github.com/mfallesen/spicy-front)
 [A Spicy API](https://github.com/mfallesen/spicy-api)
 
-### Day 2: Sunday, January 3rd 2021 
+### Day 19: Wednesday, January 20th 2021 
 
 **Today's Progress**: worked on updating my Portfolio
 
@@ -263,6 +263,21 @@ theres always room for improvement in the code. Going over old projects makes th
 
 **Link to work:** [mikefallesen.codes](https://github.com/mfallesen/mfallesen-codes)
 
+### Day 2: Thursday, January 21st 2021 
+
+**Today's Progress**: Reworked an old weather dashboard. 
+
+**Thoughts** 
+Spent a decent amount of time reworking the weather app and making small adjustments here and there. Figured out how to get the data into the object much quicker than I had in a previous iteration. I think I might well redo this application again but start from scratch and make it much nicer looking. Maybe even as a React Application
+
+**Sucesses:**
+Was able to rework and get the application back to a more acceptable level of completeness. 
+
+**Lessons Learned:**
+Theres always room for improvement, especially in code thats month or years old. 
+
+**Link to work:** [WeatherDash](https://github.com/mfallesen/weather-api)
+
 ### Day 2: Sunday, January 3rd 2021 
 
 **Today's Progress**: 
@@ -271,7 +286,7 @@ theres always room for improvement in the code. Going over old projects makes th
 
 **Sucesses:**
 
-**Failures:**
+**Lessons Learned:**
 
 **Link to work:** [theshoppies](https://github.com/mfallesen/theshoppies)
 
