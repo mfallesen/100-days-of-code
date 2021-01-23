@@ -263,7 +263,7 @@ theres always room for improvement in the code. Going over old projects makes th
 
 **Link to work:** [mikefallesen.codes](https://github.com/mfallesen/mfallesen-codes)
 
-### Day 2: Thursday, January 21st 2021 
+### Day 20: Thursday, January 21st 2021 
 
 **Today's Progress**: Reworked an old weather dashboard. 
 
@@ -278,13 +278,34 @@ Theres always room for improvement, especially in code thats month or years old.
 
 **Link to work:** [WeatherDash](https://github.com/mfallesen/weather-api)
 
-### Day 2: Sunday, January 3rd 2021 
+### Day 21: Friday, January 3rd 2021 
+
+**Today's Progress**: refactored and reworked my Backend that was giving me trouble
+
+**Thoughts** 
+Today was one of those days when I scrapped most of the code that I had written and started fresh. And to my relief it seems to have been just the right thing to do. managed to get the responses i needed and to send the info to the client. from there I can start plugging it into my front end (when I start Building it)
+
+**Sucesses:**
+got the response I have been hoping for:
+
+**Lessons Learned:**
+never be afraid to rip all your code out and start over. after a while everything can become unreadable and rather that sitting there trying to piece the whole thing together it can actually be easier to start from scratch.
+
+**Link to work:** [A Spicy Front](https://github.com/mfallesen/spicy-front)
+[A Spicy API](https://github.com/mfallesen/spicy-api)
+
+
+
+## Template
+
+### Day 21: Friday, January 3rd 2021 
 
 **Today's Progress**: 
 
 **Thoughts** 
 
 **Sucesses:**
+
 
 **Lessons Learned:**
 
