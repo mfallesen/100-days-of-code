@@ -294,6 +294,20 @@ never be afraid to rip all your code out and start over. after a while everythin
 **Link to work:** [A Spicy Front](https://github.com/mfallesen/spicy-front)
 [A Spicy API](https://github.com/mfallesen/spicy-api)
 
+### Day 22 - 23: Saturday, January 23rd and Sunday, January 24th 2021 
+
+**Today's Progress**: worked on trying to resolve a db call. not much luck. spent 2 days working on it so far.
+
+**Thoughts** 
+This is certainly nto how I was hoping to spend my time working on this app. No matter what do I can't seem to resolve the promises. I can isolate individual elements and make the call that I need to but the promise just wont resolve. ive torn it apart and reworked it several times now. might just move onto something else and see where that gets me when i come back to it. 
+
+**Sucesses:**
+Mypatience has not worn out. 
+
+**Lessons Learned:**
+No amount of google-fu will help you if you dont fully understand what youre searching for.
+
+**Link to work:** [theshoppies](https://github.com/mfallesen/theshoppies)
 
 
 ## Template
