@@ -309,6 +309,21 @@ No amount of google-fu will help you if you dont fully understand what youre sea
 
 **Link to work:** [theshoppies](https://github.com/mfallesen/theshoppies)
 
+### Day 24-28:  January 25 - 29th 2021 
+
+**Today's Progress**: fours days of work on fixing up the back end of the SpiceRack API
+
+**Thoughts** 
+Four days without updating wow. That must be some sort of record for me. Never the less work ahs been prgressing on My Spice Rack Application. I was able to get some decent progress of the back end and then got stuck for two days. to switch thing up I decided to move into the front end and giving it some work. I'm really enjoying the process of bringing everything together and making it something cohesive. The Back end is still a bit of a struggle as im trying to figure out how to work with several calls at once and waiting for one call to finish before making another call. Ive been reading more and more on how I might be able to do it but I'm going to have to get a bit more into it if Im going to actually be able to make the call like I would want. 
+
+**Sucesses:**
+The front end is looking better and better. the landing page is almost done and then i can begin working on the other pages as needed. I figure im going to need about 5 different pages in all. 
+
+**Lessons Learned:**
+Promises are hard. No not the ones i make to my wife but rather the ones returned from an api call. Ive been reading and reading and I think the next step is actually to switch to video tutorials. 
+
+**Link to work:** [A Spicy Front](https://github.com/mfallesen/spicy-front)
+[A Spicy API](https://github.com/mfallesen/spicy-api)
 
 ## Template
 
